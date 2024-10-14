@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+## UTS pembuatan tampilan login, register, dan profil 
 
-This project is a starting point for a Flutter application.
+## Tampilan awal login ![Alt text](image.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Tampilan register ![Alt text](image-1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tampilan ketika masuk ke halaman profil ![Alt text](image-2.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tampilan ketika tombol keluar ditekan akan langsung menutup aplikasi dan menghapus halaman ![Alt text](image-3.png)
+
+## Pratikum ini bertujuan untuk memberikan pengetauhan dan melakukan pratikum pembuatan tampilan login, register, dan juga profil di aplikasi sederhana
